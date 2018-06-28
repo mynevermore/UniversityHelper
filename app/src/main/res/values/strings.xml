@@ -1,0 +1,81 @@
+<resources>
+    <string name="app_name">University Helper</string>
+    <string name="facebook_app_id">127418781301107</string>
+    <string name="hello">Hello </string>
+    <string name="hello_friend">Hello Friend</string>
+
+    <!-- Note Strings -->
+    <string name="list_page_title">Your Notes</string>
+    <string name="new_note">New Note</string>
+    <string name="record_a_note">Record A Note</string>
+    <string name="take_a_picture">Take a Picture</string>
+    <string name="audio_input_unsupported">Sorry, your device doesn\'t support audio input :(</string>
+    <string name="say_something">Say something</string>
+    <string name="edit_note">Edit Note</string>
+    <string name="save_note">Save Note</string>
+    <string name="add_new_note">Add New Note</string>
+    <string name="note_title">Note Title</string>
+    <string name="delete_note">Delete Note</string>
+
+    <!-- Settings Strings -->
+    <string name="settings_menu">Settings Menu</string>
+    <string name="nameTitle">Name</string>
+    <string name="editName">Your name</string>
+    <string name="studentTitle">Student ID</string>
+    <string name="your_student_id">Your student ID</string>
+    <string name="emergency_contact_details">Emergency Contact Details</string>
+    <string name="emergency_contact">Emergency Contact</string>
+    <string name="emergency_contact_number">Their number</string>
+    <string name="major">Your major</string>
+    <string name="major_title">Major</string>
+    <string name="save_settings_button">Save Settings</string>
+
+    <!-- Emergency Contact -->
+    <string name="call_emergency_contact">Call Emergency Contact</string>
+    <string name="hold_to_call_000">Hold to call 000</string>
+    <string name="hold_to_call">Hold to Call</string>
+    <string name="sos">SOS</string>
+
+    <!-- Assignments -->
+    <string name="assignment_title">Assignment List</string>
+    <string name="add_new_assignment">Add a new Assignment</string>
+    <string name="assignment_notes">Assignment Notes</string>
+    <string name="assignment_title_hint">Assignment Title</string>
+    <string name="new_assignment">New Assignment</string>
+    <string name="save_assignment">Save Assignment</string>
+    <string name="set_day_and_time">Set Day and Time</string>
+    <string name="view_assignment">View Assignment</string>
+    <string name="set_due_date">Set Due Date</string>
+
+    <!-- Dialog -->
+    <string name="okay">OK</string>
+    <string name="cancel">Cancel</string>
+
+    <!-- Tasks -->
+    <string name="task_lists_title">Your Task Lists</string>
+    <string name="new_task_list">Add New Task List</string>
+    <string name="add_task_list">Add Task List</string>
+    <string name="view_task_list">View Task List</string>
+    <string name="title_of_task_list">Title of Task List</string>
+    <string name="new_task_item">New Task Item</string>
+    <string name="new_tasks">New Task List</string>
+
+    <!-- Classes -->
+    <string name="classes_list">Classes List</string>
+    <string name="new_class">Add New Class</string>
+    <string name="class_name">Class Name</string>
+    <string name="class_details">Class Details</string>
+    <string name="class_type">Class Type</string>
+    <string name="save_class">Save Class</string>
+    <string name="day_and_time">Day and Time</string>
+
+    <!-- Units -->
+    <string name="unit_details">Unit Details</string>
+    <string name="add_unit_button">Add Unit</string>
+    <string name="due_date">Due Date:</string>
+    <string name="save_task_list">Save Task List</string>
+    <string name="delete_task_list">Delete Task List</string>
+    <string name="delete_class">Delete Class</string>
+    <string name="unit_name_or_code">Unit Name or Code</string>
+    <string name="edit_task_list">Edit Task List</string>
+</resources>
